@@ -53,8 +53,8 @@ A create-react-app template specifically designed for decentralized application 
 ### Installation
 
 ```sh
-user@linux:~$ git clone https://github.com/rromero89/Reservo.git
-user@linux:~$ cd Reservo
+user@linux:~$ git clone https://github.com/rromero89/reservo.git
+user@linux:~$ cd reservo
 user@linux:~$ npm i
 user@linux:~$ npm start
 ```
